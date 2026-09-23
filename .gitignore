@@ -60,3 +60,5 @@ Thumbs.db
 *.bin
 *.pt
 *.safetensors
+
+/chroma_db/
